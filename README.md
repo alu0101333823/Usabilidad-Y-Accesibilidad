@@ -1,5 +1,5 @@
 # SEMINARIOS-UYA
-### José Pablo Ruiz Galván
-#### Sergio Mellado Martín
+##### José Pablo Ruiz Galván
+##### Sergio Mellado Martín
 ##### Nicolás Vegas Rodríguez
-####### Juan Marrero Domínguez
+##### Juan Marrero Domínguez
