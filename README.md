@@ -1,4 +1,6 @@
-# SEMINARIOS-UYA
+# SEMINARIOS Y PRÁCTICAS USABILIDAD Y ACCESIBILIDAD
+
+## Miembros del grupo:
 
 ##### José Pablo Ruiz Galván alu0101328447
 
