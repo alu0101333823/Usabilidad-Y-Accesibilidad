@@ -10,4 +10,9 @@
 
 ##### Juan Marrero Domínguez alu0101333823
 
-Dentro de cada carpeta se encuentra la actividad relacionada con el título. Cada una de las cuales son las actividades desarrolladas a lo largo del cuatrimestre por todos los miembros del grupo. 
+## Índice: 
+
+* [Seminario 1](./Seminario 1)
+
+
+
