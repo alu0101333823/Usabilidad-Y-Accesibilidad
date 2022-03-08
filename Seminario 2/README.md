@@ -7,7 +7,7 @@ A partir de la extensión screen reader hemos realizado 4 búsquedas web de las 
 - Inicio de los trámites de matriculación.
 - Consulta de las notas del primer cuatrimestre.
 
-En nuestro caso, los compañeros Sergio Mellado y Juan Marrero han realizado dichas búsquedas y José Pablo Ruiz junto a Nicolas Vegas han comentado el proceso de búsqueda. 
+En nuestro caso, los compañeros Sergio Mellado y Nicolas Vegas han realizado dichas búsquedas y José Pablo Ruiz junto a Juan Marrero han comentado el proceso de búsqueda. 
 
 Para realizar estas búsquedas habilitamos la extensión con las teclas windows + k, para navegar por lás paginas usamos el tabulador, el enter y modificamos los campos de búsquedas correspondientes mientras dicha extensión nos lee el contenido por pantalla.
 
