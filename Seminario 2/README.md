@@ -3,7 +3,7 @@
 A partir de la extensión screen reader hemos realizado 4 búsquedas web de las siguienes páginas:
 
 - Consulta del calendario académico.
-- Búsqueda de los horarios de la asignatura de usabilidad.
+- Búsqueda de los horarios.
 - Inicio de los trámites de matriculación.
 - Consulta de las notas del primer cuatrimestre.
 
