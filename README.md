@@ -12,7 +12,7 @@
 
 ## Índice: 
 
-* [Seminario 1](/Seminario\\1)
+* [Seminario 1](https://github.com/alu0101333823/Usabilidad-Y-Accesibilidad/tree/main/Seminario%201)
 
 
 
