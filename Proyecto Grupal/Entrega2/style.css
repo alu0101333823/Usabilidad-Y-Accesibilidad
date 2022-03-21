@@ -89,7 +89,6 @@ h3 a:hover {
 
 .tabla td {
     box-sizing: content-box;
-    width: 100%;
 	border: 1px solid rgba(16,76,167,.25);
 	background: rgba(90,156,255,.25);
 }
@@ -129,5 +128,5 @@ ol {
 article{
 	display:block;
 	float:right;
-	margin-left:12px:
+	margin-left:12px;
 }
