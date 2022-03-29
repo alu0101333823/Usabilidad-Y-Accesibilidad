@@ -1,16 +1,16 @@
-// Cogemos el cuadro de texto
+// Almacenamos los elementos que vamos a usar
 const input = document.getElementById('user-input');
+const inputBlock = document.getElementById('input-zone');
 const btn = document.getElementById('input-button');
-console.log(input)
 
-// Leemos el texto que tiene dentro y lo guardamos
 btn.onclick = function () {
-  const texto = input.value;
   const parrafo = document.createElement("p");
-  parrafo.innerHTML = texto;
-  document.body.appendChild(parrafo);
+  parrafo.innerHTML = `
+      <h5 class="center">El usuario ha introducido: </h5>
+      <p class="light"> ${input.value} </p>
+  `;
+  console.log(input.value)
+  inputBlock.appendChild(parrafo);
 }
 
-// Creamos otro elemento <p> y con el contenido que leemos
 
-// Ya estparrafo.appendChild(texto);
