@@ -9,7 +9,6 @@ btn.onclick = function () {
       <h5 class="center">El usuario ha introducido: </h5>
       <p class="light"> ${input.value} </p>
   `;
-  console.log(input.value)
   inputBlock.appendChild(parrafo);
 }
 
