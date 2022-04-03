@@ -1,6 +1,6 @@
-var divs = document.getElementsByTagName("div").length;
-var p = document.getElementsByTagName("p").length;
-var li = document.getElementsByTagName("li").length;
+const divs = document.getElementsByTagName("div").length;
+const p = document.getElementsByTagName("p").length;
+const li = document.getElementsByTagName("li").length;
 
 alert("Hay " + divs + " etiquetas div");
 alert("Hay " + p + " párrafos");
