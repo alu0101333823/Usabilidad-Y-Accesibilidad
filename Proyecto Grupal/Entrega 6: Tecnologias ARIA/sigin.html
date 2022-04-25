@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+<title>DRIP DROP</title>
+
+<!-- CSS  -->
+<link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+<link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+
+</head>
+<body>
+
+<nav class="black" role="navigation" aria-roledescription="Barra de navegacion del sitio">
+  <div class="nav-wrapper container ">
+    <a id="logo-container" href="./index.html" class="brand-logo"> <img class="foto" src="./imagenes/logo.png" width="80" height="39.9"></img></a>
+    <ul role="list" aria-label="lista de enlaces de la barra navegacion" class="right hide-on-med-and-down ">
+      <li><a role="listitem" aria-label="Inicio" aria-roledescription="enlace" aria-labelledby="enlace al inicio" class="white-text" href="#">Inicio</a></li>
+      <li><a role="listitem" aria-label="Conctacto" aria-roledescription="enlace" aria-labelledby="enlace al contacto" class="white-text"href="#">Contacto</a></li>
+      <li><a role="listitem" aria-label="Sobre Nosotros" aria-roledescription="enlace" aria-labelledby="enlace a la informacion sobre drip drop como empresa" class="white-text"href="#">Sobre nosotros</a></li>
+      <li><a role="listitem" aria-label="Registro" aria-roledescription="enlace" aria-labelledby="enlace al registro" class="white-text"href="./sigin.html">Sign In</a></li>
+      <li><a role="listitem" aria-label="Inicio de sesion" aria-roledescription="enlace" aria-labelledby="enlace al inicio de sesion" class="white-text"href="#">Sign Up</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- Contenido de la página -->
+<div role="Comienzo del contenido." id="index-banner" class="parallax-container">
+  <div class="section no-pad-bot">
+    <div class="container">
+      <br><br>
+      <h1 class="header center black-text">DRIP DROP</h1>
+    </div>
+    <div><img class="materialboxed responsive-img" src="./imagenes/fondo1.jpg"></div>
+  </div>
+</div>
+
+<div class="container section scrollspy" id="contactus">
+<div class="section">
+  <br>
+<br>
+  <div id="data" class="row center">
+    <form id="formulario" class="col s6 center push-s4">
+        <div class="input-field col s6">
+          <input role="textbox" aria-required="true" aria-labelledby="correo" id="email" type="email" class="validate">
+          <label for="email">Correo electrónico</label>
+        </div>
+        <br><br>
+        <br><br>
+        <div class="input-field col s6">
+          <input role="textbox" aria-required="true" aria-labelledby="contraseña" id="password" type="password" class="validate">
+          <label for="password">Contraseña</label>  
+        </div>
+
+        <div>
+          <br><br>
+          <br><br>
+          <button role="button" aria-label="Boton para registrarse." aria-expanded="false" id="btn" type="submit" class="btn waves-effect">
+            Registrar<i class="mdi-content-send right"></i>
+          </button>
+        </div>
+    </form>
+
+  </div>
+</div>
+</div>
+
+<div class="container section scrollspy" id="projects">
+  <div class="section">
+    <p class="cajas" class="center">Encuentra tu producto ideal</h4>
+    <div class="row">
+      <div class="col s6">
+      <img class="materialboxed responsive-img" src="./imagenes/p1.png">
+      </div> 
+      <div class="col s6">
+      <img class="materialboxed responsive-img" src="./imagenes/p2.png">
+      </div> 
+    </div>
+    
+     <div class="row">
+      <div class="col s6">
+      <img class="materialboxed responsive-img" src="./imagenes/p3.png">
+      </div> 
+      <div class="col s6">
+      <img class="materialboxed responsive-img" src="./imagenes/p4.png">
+      </div> 
+    </div>
+    
+    <div class="center">
+      <a role="button" aria-label="Boton para ver más del catálogo" aria-expanded="false" class="waves-effect waves-light btn black lighten-1">Ver mas</a>
+    </div>
+
+  </div>
+</div>
+
+
+<footer class="page-footer black lighten-1">
+  
+  <div class="footer-copyright">
+    <div class="container">
+      <p>Copyright © Drip Drop</p>
+    </div>
+  <div>
+    <ul class="share-buttons">
+    </ul>
+  </div>
+</footer>
+
+<!--  Scripts-->
+<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="js/materialize.js"></script>
+<script src="js/firebase.js" type="module"></script>
+<script src="js/ajax.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+</body>
+</html>
